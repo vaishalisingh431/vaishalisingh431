@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaishali Singh
 - 👀 I’m interested in Data Science and Automation
-- 🌱 I’m currently learning DSA,Machine Learning
+- 🌱 I’m currently learning DSA,Machine Learning and Statistics.
 
 
 
